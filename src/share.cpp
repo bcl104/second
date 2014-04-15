@@ -14,5 +14,6 @@ int main() {
 	cout<<"fjeigj"<<endl;
 	cout<<"grioehgr"<<endl;
 	cout<<"1233"<<endl;
+	cout<<"ghreogrioe"<<endl;
 	return 0;
 }
